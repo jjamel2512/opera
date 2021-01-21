@@ -1,0 +1,16 @@
+#---
+#environment: production
+#classes:
+  #nfs::server:
+    #exports:
+      #- /srv/share1
+      #- /srv/share3
+#parameters:---
+#environment: production
+#classes:
+  #nfs::server:
+    #exports:
+      #- /srv/share1
+      #- /srv/share3
+#parameters:
+#YAML_FILE
