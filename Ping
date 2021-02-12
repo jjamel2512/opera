@@ -1,0 +1,28 @@
+'''
+#*/
+
+"""
+#"{Radiant}
+#"{Aide}
+#"{IOS} or 
+#"{MICRO} or 
+#"{BIYT] or 
+#"{KILO}
+
+# """"The level; of technology
+#"{Trident}
+#"{Buffer}
+#"{Roam}
+#"{Ping}
+#"{Load}
+#"{Stop}
+"""
+  # Exit with status os.EX_OK  
+    # using os._exit() method  
+    # The value of os.EX_OK is 0          
+    #'os._exit(os.EX_OK)'
+    #print ({load})
+#Sys.Exit({Ping})
+# """
+#continue
+'''
